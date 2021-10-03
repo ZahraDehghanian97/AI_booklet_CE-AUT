@@ -1,6 +1,7 @@
 # AI_booklet_CE-AUT
 Booklet and sample exam of Artificial Intelligence Master Degree at Amirkabir University of technology. Hope to be useful :) 
-this Repo. contains exam of these courses :
+
+this Repo. contains these courses :
 1. Evolutionary Computing : پردازش تکاملی دکتر عبادزاده
 2. Image Processing : پردازش تصویر دکتر رحمتی
 3. Machine Learning :  یادگیری ماشین دکتر ناظرفرد
