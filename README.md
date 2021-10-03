@@ -11,3 +11,4 @@ this Repo. contains these courses :
 7. Stochastic Process : فرایند تصادفی دکتر امیرمزلقانی
 8. Information Retreival : بازیابی اطلاعات دکتر ممتازی 
 9. Deep Reinforcement Learning : یادگییری تقویتی عمیق دکتر عبادزاده
+10. Stochastic Machine Learning : یادگیری ماشین آماری دکتر نیک آبادی
