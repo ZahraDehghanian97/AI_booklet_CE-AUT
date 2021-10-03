@@ -1,6 +1,5 @@
 # AI_booklet_CE-AUT
 Booklet and sample exam of Artificial Intelligence Master Degree at Amirkabir University of technology. Hope to be useful :) 
-نمونه سوال و جزوه دروس مختلف گرایش هوش مصنوعی ارشد دانشکده مهندسی کامپیوتر در دانشگاه صنعتی امیرکبیر
 
 this Repo. contains these courses :
 1. Evolutionary Computing : پردازش تکاملی دکتر عبادزاده
@@ -13,3 +12,5 @@ this Repo. contains these courses :
 8. Information Retreival : بازیابی اطلاعات دکتر ممتازی 
 9. Deep Reinforcement Learning : یادگییری تقویتی عمیق دکتر عبادزاده
 10. Stochastic Machine Learning : یادگیری ماشین آماری دکتر نیک آبادی
+
+نمونه سوال و جزوه دروس مختلف گرایش هوش مصنوعی ارشد دانشکده مهندسی کامپیوتر در دانشگاه صنعتی امیرکبیر
