@@ -13,4 +13,5 @@ this Repo. contains these courses :
 9. Deep Reinforcement Learning : یادگییری تقویتی عمیق دکتر عبادزاده
 10. Stochastic Machine Learning : یادگیری ماشین آماری دکتر نیک آبادی
 
+To help to improve this Repo. please contact me on Telegram @zahraDehghanian97
 نمونه سوال و جزوه دروس مختلف گرایش هوش مصنوعی ارشد دانشکده مهندسی کامپیوتر در دانشگاه صنعتی امیرکبیر
